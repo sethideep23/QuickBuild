@@ -1,0 +1,18 @@
+#menu_container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-image: url('http://data.hdwallpapers.im/window_of_train.jpg');
+	height: 55%;
+	width: 100%;
+	/*background-position: 65% 50%;*/
+	background-size: cover;
+}
+#overlay_menu {
+	background: rgba(0,0,0,0.4);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
